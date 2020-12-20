@@ -57,7 +57,7 @@ Environment setting (windows):
   2. install unityagents: pip install unityagents
   3. install matplotlib: conda install matplotlib
 - clone the repository: git clone https://github.com/liankun/Udacity_Project_Continuous_Control.git
-- cd Udacity_Project_Navigation
-- create IPython kernel: python -m ipykernel install --user --name project_navigation --display-name "project_navigation" <br/>
+- cd Udacity_Project_Continuous_Control
+- create IPython kernel: python -m ipykernel install --user --name project_navigation --display-name "project_continuous_control" <br/>
 
 Now you can run the project by using the project_navigation environment in the jupyter notebook.
